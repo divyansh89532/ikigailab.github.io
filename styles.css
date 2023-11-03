@@ -1,0 +1,56 @@
+body{
+    background-color: lightblue;
+}
+
+#searchnavbar{
+    border-bottom: 5px solid blue;
+}
+
+#car1 {
+    border-top: 5px solid blue;
+}
+
+#navbarNav{
+    justify-content: end;
+}
+
+#abouttext{
+    text-align: justify;
+    font-size: large;
+    color: azure;
+}
+
+#authorstext{
+    text-align: justify;
+    font-size: large;
+    color: azure;
+}
+
+.card-text{
+    text-align: justify;
+}
+
+.servicestext
+{
+    text-align: justify;
+    font-size: large;
+    color: black;
+}
+
+
+#card1:hover{
+    background-color: black;
+}
+#card1:hover p{
+    color: white;
+}
+#card1:hover h4{
+    color: white;
+}
+#card1:hover i{
+    color: white;
+}
+
+#td{
+    background-color: lightblue;
+}
